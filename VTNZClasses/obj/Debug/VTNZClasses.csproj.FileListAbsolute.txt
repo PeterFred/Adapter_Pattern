@@ -1,0 +1,6 @@
+C:\Users\peter.LINCOLN\source\repos\Tutorial4\VTNZClasses\bin\Debug\VTNZClasses.dll
+C:\Users\peter.LINCOLN\source\repos\Tutorial4\VTNZClasses\bin\Debug\VTNZClasses.pdb
+C:\Users\peter.LINCOLN\source\repos\Tutorial4\VTNZClasses\obj\Debug\VTNZClasses.csprojAssemblyReference.cache
+C:\Users\peter.LINCOLN\source\repos\Tutorial4\VTNZClasses\obj\Debug\VTNZClasses.csproj.CoreCompileInputs.cache
+C:\Users\peter.LINCOLN\source\repos\Tutorial4\VTNZClasses\obj\Debug\VTNZClasses.dll
+C:\Users\peter.LINCOLN\source\repos\Tutorial4\VTNZClasses\obj\Debug\VTNZClasses.pdb
